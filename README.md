@@ -1,1 +1,18 @@
-# packet-sniffer
+# packet-sniffer Project
+
+## Description
+A Python-based packet sniffer using Scapy that captures live network traffic and displays source IP, destination IP, and protocol information.
+
+## Features
+- Captures live network packets
+- Shows IP addresses (source & destination)
+- Identifies TCP and UDP traffic
+- Helps understand network communication flow
+
+## Tools Used
+- Python
+- Scapy
+- Npcap (for Windows packet capture)
+
+## Learning Outcome
+Learned how network packets travel, how protocols work, and how to analyze real-time traffic.
